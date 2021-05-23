@@ -3,7 +3,7 @@
 This repository contains the source code accompanying our CVPR 2021 paper.
 
 **Gradient-Based Algorithms for Machine Teaching**  
-[Pei Wang](http://www.svcl.ucsd.edu/~peiwang), Kabir Nagrecha, [Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno).  
+[Pei Wang](http://www.svcl.ucsd.edu/~peiwang), [Kabir Nagrecha](https://knagrecha.github.io/), [Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno).  
 In CVPR, 2021.
 
 ```
