@@ -2,7 +2,7 @@
 
 This repository contains the source code accompanying our CVPR 2021 paper.
 
-**Gradient-Based Algorithms for Machine Teaching**  
+**[Gradient-Based Algorithms for Machine Teaching](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Gradient-Based_Algorithms_for_Machine_Teaching_CVPR_2021_paper.html)**  
 [Pei Wang](http://www.svcl.ucsd.edu/~peiwang), [Kabir Nagrecha](https://knagrecha.github.io/), [Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno).  
 In CVPR, 2021.
 
@@ -73,6 +73,11 @@ train_butterflies_maxgrad     | 1 | ~5min    |
 model     | #GPUs | train time |
 ---------|--------|-----|
 train_chineseChars_maxgrad     | 1 | ~3min    | 
+
+
+## Teaching system
+
+[system](https://machine-teaching-website.herokuapp.com/tokensignin?username=1234)
 
 ## Disclaimer
 
